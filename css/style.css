@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #808080;
+    background-color: #eeeeee;
+    font-size: 14px;
+
+}
+
+h1{
+    font-size: 300%;
+    color: #772222;
+    
+}
+h3{
+    font-size: 150%;
+    color: #2244aa;
+
+}
+
+p{
+    color: green;
+    font-family :  Arial, sans-serif;
+}
+
+.dog-img{
+    display: flex;
+}
+
+.dog-img p{
+    width: 300px;
+    padding-left: 10px;
+}
+
+p span{
+    color: #81498B;
+    text-decoration: underline;
+}
+
+.dog-p{
+    width: 500px;
+}
